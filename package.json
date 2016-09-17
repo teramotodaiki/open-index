@@ -1,0 +1,22 @@
+{
+  "name": "open-index",
+  "version": "1.0.0",
+  "description": "The index of programable contents.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teramotodaiki/open-index.git"
+  },
+  "keywords": [
+    "hackforplay"
+  ],
+  "author": "teramotodaiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teramotodaiki/open-index/issues"
+  },
+  "homepage": "https://github.com/teramotodaiki/open-index#readme"
+}
